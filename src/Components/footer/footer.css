@@ -1,0 +1,5 @@
+.footer{
+    height: 50vh;
+    background: rgba(255, 255, 255, 0.126);
+    backdrop-filter: blur(12px);
+}

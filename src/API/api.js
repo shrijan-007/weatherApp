@@ -1,0 +1,3 @@
+const API_KEY = "19e33338d54a441c889170102231602";
+
+export default API_KEY;
